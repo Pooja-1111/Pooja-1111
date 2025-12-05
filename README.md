@@ -30,12 +30,4 @@ I design interfaces that feel soft, poetic, and warm — and I'm currently learn
 
 ---
 
-## 🪷 What I Like Designing
-- Journal-style interfaces  
-- Cozy & warm website layouts  
-- Minimal dashboards  
-- Interactive interfaces instead of static screens  
-
----
-
 Thanks for stopping by ❤️ Keep an eye out - for new things!!
