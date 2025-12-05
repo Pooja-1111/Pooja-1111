@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hey there! 🦢
 
-<!--
-**Pooja-1111/Pooja-1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Pooja**, a UI/UX designer and Full Stack Developer building meaningful digital experiences.  
+I design interfaces that feel soft, poetic, and warm — and I'm currently learning how to turn them into fully working products.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🫧 What I'm Learning Right Now
+- Designing real-world UI/UX flows  
+- Building frontend UI with HTML, CSS & JS  
+- Creating interactive prototypes in Figma  
+- Structuring full projects end-to-end  
+
+---
+
+## 🐘 My Main Tools
+**Design Tools**
+- Figma & Framer (wireframes, UI kits, prototyping)  
+- Canva (printables & branding layouts)  
+- Affinity Designer (illustrations & journal aesthetics)
+
+**Development Tools**
+- VS Code & Cursor (coding and debugging)
+
+---
+
+## 🎞️ Current Projects
+- **Vylín** — a music application  
+- **Digital Scrapbook Experience** with themes, notebooks & custom pages  
+
+---
+
+## 🪷 What I Like Designing
+- Journal-style interfaces  
+- Cozy & warm website layouts  
+- Minimal dashboards  
+- Interactive interfaces instead of static screens  
+
+---
+
+Thanks for stopping by ❤️ Keep an eye out - for new things!!
