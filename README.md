@@ -1,6 +1,6 @@
 # Hey there! 🦢
 
-I'm **Pooja**, a UI/UX designer and Full Stack Developer building meaningful digital experiences.  
+I'm **Pooja**, a UI/UX designer and Developer building meaningful digital experiences.  
 I design interfaces that feel soft, poetic, and warm — and I'm currently learning how to turn them into fully working products.
 
 ---
